@@ -1,0 +1,12 @@
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\bin\Debug\net6.0\trials.Module.deps.json
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\bin\Debug\net6.0\trials.Module.dll
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\bin\Debug\net6.0\trials.Module.pdb
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.csproj.AssemblyReference.cache
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.AssemblyInfoInputs.cache
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.AssemblyInfo.cs
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.csproj.CoreCompileInputs.cache
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.dll
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\refint\trials.Module.dll
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\trials.Module.pdb
+C:\Users\ManfujiAgbo\source\repos\trials\trials.Module\obj\Debug\net6.0\ref\trials.Module.dll
